@@ -5,7 +5,8 @@ public class Hello {
         System.out.println("hello");
         System.out.println("Edit Java code!!");
         System.out.println("dddds");
-        System.out.println("dddds");
+        System.out.println("abcdef");
+
 
 
 
